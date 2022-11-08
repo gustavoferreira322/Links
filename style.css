@@ -46,6 +46,9 @@ body {
   margin: 60px auto;
 }
 /* Configurações de imagem */
+.icon {
+  width: 20px;
+}
 img {
   width: 100%;
 }

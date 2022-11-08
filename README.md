@@ -1,6 +1,6 @@
 # Links
 
-![preview](./gitgub/preview.png)
+![preview](./github/preview.png)
 
 > Trilha Explorer
 

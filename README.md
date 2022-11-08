@@ -15,6 +15,6 @@ Projeto construído Pela Rocketseat.
 - CSS
 - Git e Github
 
-## 💛 Contato
+## Feito com 💛 Rocketseat
 
 gustavofirexx@hotmail.com
